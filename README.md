@@ -1,4 +1,5 @@
 # desmarais-patrick.github.io
 
 Personal website
-desmarais-patrick.com
+
+[desmarais-patrick.com](http://desmarais-patrick.com/)
